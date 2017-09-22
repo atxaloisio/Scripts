@@ -1,0 +1,1 @@
+update usuario set Id_empresa = 1
